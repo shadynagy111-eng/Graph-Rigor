@@ -4,7 +4,7 @@ import requests
 
 # ── Configuration ─────────────────────────────────────────────────────────────
 
-API_KEY = "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"
+API_KEY = "API_KEY
 MODEL   = "google/gemini-2.5-flash-lite"
 
 # Other free models to try if flash hits limits — just swap MODEL:
@@ -368,5 +368,6 @@ if __name__ == "__main__":
     8 11 35
     14 11 77
     """
+
 
     run_pipeline(PROBLEM)
